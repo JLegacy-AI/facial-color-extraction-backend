@@ -1,0 +1,2 @@
+file,image type,face id,dominant 1,percent 1,dominant 2,percent 2,skin tone,tone label,accuracy(0-100)
+a.jpg,bw,1,#9A6B58,0.75,#D2B9A2,0.25,#808080,BI,80.66

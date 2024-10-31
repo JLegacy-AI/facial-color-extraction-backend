@@ -1,0 +1,2 @@
+file,image type,face id,dominant 1,percent 1,dominant 2,percent 2,skin tone,tone label,accuracy(0-100)
+blue_medium.jpg,bw,1,#DEC1B5,0.79,#9E7454,0.21,#C0C0C0,BE,85.03

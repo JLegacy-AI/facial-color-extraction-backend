@@ -1,0 +1,2 @@
+file,image type,face id,dominant 1,percent 1,dominant 2,percent 2,skin tone,tone label,accuracy(0-100)
+green_easy.jpg,bw,1,#D0A99B,0.75,#96685D,0.25,#A0A0A0,BG,82.34

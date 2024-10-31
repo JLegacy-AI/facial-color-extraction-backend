@@ -1,0 +1,2 @@
+file,image type,face id,dominant 1,percent 1,dominant 2,percent 2,skin tone,tone label,accuracy(0-100)
+black_guy.jpg,bw,1,#443E3D,0.63,#908880,0.37,#404040,BM,87.42
